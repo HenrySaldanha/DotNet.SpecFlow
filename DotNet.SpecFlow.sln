@@ -9,7 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A252233D-3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "src\Math\Math.csproj", "{72E1F83E-DAE0-4D79-B499-AE8CC04CCD11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Tests", "test\Math.Tests\Math.Tests.csproj", "{DE85E6E4-DD83-416E-B0B3-EDDCACA48CDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Tests", "test\Math.Tests\Math.Tests.csproj", "{DE85E6E4-DD83-416E-B0B3-EDDCACA48CDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{878E1C03-C4B4-4FF3-BF0A-DB98F6973A3B}"
+	ProjectSection(SolutionItems) = preProject
+		REDME.md = REDME.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
